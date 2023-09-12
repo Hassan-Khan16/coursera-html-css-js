@@ -49,6 +49,10 @@ body {
     margin-bottom: 30px;
 }
 
+.section{
+    padding: 10px;
+}
+
 #menu-item {
     background-color: #999999;
     padding: 15px;
