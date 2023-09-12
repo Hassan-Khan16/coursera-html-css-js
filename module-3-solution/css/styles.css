@@ -1,6 +1,6 @@
 body {
     font-family: 'Exo 2', sans-serif;
-    color: black
+    color: black;
 }
 
 #header-navbar {
@@ -51,8 +51,13 @@ body {
 
 #menu-item {
     background-color: #999999;
+    padding: 15px;
+    margin-bottom: 15px;
 }
 
 #menu-heading {
     margin-top: 3px;
+}
+.backtotop {
+    color: aqua;
 }
